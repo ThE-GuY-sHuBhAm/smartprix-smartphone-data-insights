@@ -107,7 +107,7 @@ python src/03_cleaning.py
 ### 3. Exploratory Data Analysis (EDA)
 
 ```bash
-python src/04_visualization.py
+python src/04_eda.py
 ```
 
 * Generates visualizations from the cleaned dataset

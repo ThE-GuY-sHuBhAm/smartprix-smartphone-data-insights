@@ -50,9 +50,9 @@ smartprix-smartphone-data-insights/
 ├── data/
 │   ├── html/
 │   │   └── smartprix.html            # Intermediate HTML used by BeautifulSoup script
-│   ├── raw/                          # Local raw dataset (not pushed to GitHub)
+│   ├── raw/                          # raw dataset 
 │   │   └── phones_data.xlsx
-│   └── cleaned/                      # Local cleaned dataset (not pushed to GitHub)
+│   └── cleaned/                      # cleaned dataset
 │       └── cleaned__smartphone_data.xlsx
 │
 ├── plots/

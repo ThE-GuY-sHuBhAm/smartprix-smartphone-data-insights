@@ -1,0 +1,42 @@
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment folders
+# =========================
+env_smartprix/
+*.env/
+venv/
+.venv/
+
+# =========================
+# Data and outputs
+# =========================
+data/raw/
+data/cleaned/
+plots/
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor configs
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
